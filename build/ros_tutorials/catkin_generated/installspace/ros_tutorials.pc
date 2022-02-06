@@ -1,0 +1,8 @@
+prefix=/home/gunhee/catkin_ws/install
+
+Name: ros_tutorials
+Description: Description of ros_tutorials
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lros_tutorials
+Requires: geometry_msgs message_generation roscpp std_msgs

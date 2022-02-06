@@ -1,0 +1,8 @@
+prefix=/home/gunhee/catkin_ws/devel
+
+Name: three_axis_robot
+Description: Description of three_axis_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

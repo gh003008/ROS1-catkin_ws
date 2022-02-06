@@ -1,0 +1,9 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ros_tutorials_generate_messages_cpp"
+  "/home/gunhee/catkin_ws/devel/include/ros_tutorials/MsgTutorial.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/ros_tutorials_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
